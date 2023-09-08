@@ -402,7 +402,9 @@ button, a { transition: var(--transition); }
   text-transform: uppercase;
 }
 
-
+#linka{
+  margin-top: -38px;
+}
 
 
 
